@@ -30,7 +30,7 @@ const Header = ({ isScrolled }) => {
       <div className="container flex justify-between items-center">
         <a href="/" className="z-10 flex items-center">
           <img 
-            src="images/sandavinci_logo.jpg" 
+            src="/images/sandavinci_logo.jpg" 
             alt="Sandavinci Logo" 
             className={`h-8 md:h-10 mr-2 transition-opacity ${isScrolled ? 'opacity-100' : 'opacity-90'}`}
           />
