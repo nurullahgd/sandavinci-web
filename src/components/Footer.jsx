@@ -10,7 +10,7 @@ const Footer = () => {
       links: [
         { name: 'Ana Sayfa', url: '#ana-sayfa' },
         { name: 'Menümüz', url: 'https://qr.sandavinci.net' },
-        { name: 'Hakkımızda', url: '#hakkımızda' },
+        { name: 'Hakkımızda', url: '#about-us' },
         { name: 'İletişim', url: '#iletişim' }
       ]
     },

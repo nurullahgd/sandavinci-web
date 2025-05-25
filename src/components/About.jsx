@@ -21,7 +21,7 @@ const features = [
 
 const About = () => {
   return (
-    <section id="hakkımızda" className="section bg-white">
+    <section id="about-us" className="section bg-white">
       <div className="container">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Image column */}

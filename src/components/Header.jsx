@@ -8,7 +8,7 @@ const Header = ({ isScrolled }) => {
     const idMap = {
       'Ana Sayfa': 'ana-sayfa',
       'Menü': 'menü',
-      'Hakkımızda': 'hakkımızda',
+      'Hakkımızda': 'about-us',
       'İletişim': 'iletişim'
     };
     return idMap[name] || name.toLowerCase().replace(' ', '-');

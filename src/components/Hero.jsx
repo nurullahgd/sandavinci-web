@@ -35,7 +35,7 @@ const Hero = () => {
             
             {/* Responsive Keşfet Button */}
             <div className="w-full flex justify-center lg:hidden xl:hidden xl:flex lg:justify-end mt-2 sm:mt-4">
-              <a href="#menü" className="text-white flex flex-col items-center group hover:text-secondary transition-colors">
+              <a href="#about-us" className="text-white flex flex-col items-center group hover:text-secondary transition-colors">
                 <span className="block mb-2 text-sm sm:text-base md:text-lg">Keşfet</span>
                 <svg className="w-5 h-5 sm:w-6 sm:h-6 animate-bounce group-hover:text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
