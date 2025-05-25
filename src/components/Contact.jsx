@@ -58,7 +58,7 @@ const Contact = () => {
     {
       icon: 'clock',
       title: 'Çalışma Saatleri',
-      content: 'Haftaiçi: 08:00 - 22:00\nHaftasonu: 09:00 - 23:00',
+      content: 'Haftaiçi: 08:00 - 02:00\nHaftasonu: 08:00 - 02:00',
       link: null
     }
   ]
