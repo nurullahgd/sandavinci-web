@@ -23,7 +23,7 @@ const Hero = () => {
           </p>
           <div className="flex flex-col gap-4 animate-fadeIn">
             <div className="flex flex-col sm:flex-row gap-4 w-full md:justify-center">
-              <a href="#menü" className="btn btn-primary">
+              <a href="https://qr.sandavinci.net" className="btn btn-primary">
                 <FontAwesomeIcon icon="coffee" className="mr-2" />
                 Menümüzü Keşfedin
               </a>

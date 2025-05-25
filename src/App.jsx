@@ -32,7 +32,7 @@ function App() {
       
       <main>
         <Hero />
-        <Menu />
+        {/* <Menu /> */}
         <About />
         {/* <Testimonials />
         <Gallery /> */}

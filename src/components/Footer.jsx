@@ -9,7 +9,7 @@ const Footer = () => {
       title: 'Hızlı Erişim',
       links: [
         { name: 'Ana Sayfa', url: '#ana-sayfa' },
-        { name: 'Menümüz', url: '#menü' },
+        { name: 'Menümüz', url: 'https://qr.sandavinci.net' },
         { name: 'Hakkımızda', url: '#hakkımızda' },
         { name: 'İletişim', url: '#iletişim' }
       ]
@@ -17,18 +17,18 @@ const Footer = () => {
     {
       title: 'İletişim',
       links: [
-        { name: 'Bağdat Caddesi No:123', url: 'https://goo.gl/maps/1234567890' },
-        { name: 'Kadıköy, İstanbul', url: 'https://goo.gl/maps/1234567890' },
-        { name: '+90 212 555 1234', url: 'tel:+902125551234' },
-        { name: 'iletisim@sandavinci.com', url: 'mailto:iletisim@sandavinci.com' }
+        { name: 'Yenibosna Merkez, Şht. Selim Ayaydın Cd.', url: 'https://www.google.com/maps/place//data=!4m2!3m1!1s0x14caa533a0812aa7:0xb0fa8e27ced428d1?sa=X&ved=1t:8290&ictx=111' },
+        { name: 'Bahçelievler, İstanbul', url: 'https://www.google.com/maps/place//data=!4m2!3m1!1s0x14caa533a0812aa7:0xb0fa8e27ced428d1?sa=X&ved=1t:8290&ictx=111' },
+        // { name: '+90 212 555 1234', url: 'tel:+902125551234' },
+        { name: 'destek@sandavinci.com', url: 'mailto:destek@sandavinci.com' }
       ]
     }
   ]
   
   const socialLinks = [
-    { icon: ['fab', 'facebook'], url: 'https://facebook.com/sandavincicafe' },
+    // { icon: ['fab', 'facebook'], url: 'https://facebook.com/sandavincicafe' },
     { icon: ['fab', 'instagram'], url: 'https://www.instagram.com/sandavinci.coffee/' },
-    { icon: ['fab', 'twitter'], url: 'https://twitter.com/sandavincicafe' }
+    // { icon: ['fab', 'twitter'], url: 'https://twitter.com/sandavincicafe' }
   ]
   
   return (

@@ -45,7 +45,7 @@ const About = () => {
           <div>
             <h2 className="heading text-primary">Sandavinci Hakkında</h2>
             <p className="mb-6 text-gray-700">
-              Sandavinci, 2018 yılında kahve tutkunları tarafından İstanbul'da kurulmuş bir butik kafedir. İsmimiz, sanatsal yaklaşımımızı ve kahve yapma sanatına olan tutkumuzu yansıtıyor.
+              Sandavinci, 2025 yılında kahve tutkunları tarafından İstanbul'da kurulmuş bir butik kafedir. İsmimiz, sanatsal yaklaşımımızı ve kahve yapma sanatına olan tutkumuzu yansıtıyor.
             </p>
             <p className="mb-8 text-gray-700">
               Misyonumuz, müşterilerimize yüksek kaliteli kahve deneyimi sunmanın yanında, rahat ve sıcak bir ortamda keyifli vakit geçirebilecekleri bir mekan oluşturmaktır. Her fincan kahve, her tabak yemek özenle hazırlanır ve sunulur.

@@ -15,14 +15,16 @@ const Header = ({ isScrolled }) => {
   };
 
   // Navigation items
-  const navItems = ['Ana Sayfa', 'Menü', 'Hakkımızda', 'İletişim', 'Google\'da değerlendirin'];
+  // const navItems = ['Ana Sayfa', 'Menü', 'Hakkımızda', 'İletişim', 'Google\'da değerlendirin'];
+  const navItems = ['Ana Sayfa', 'Menü', 'Hakkımızda', 'İletişim'];
   
   // Mobile navigation items (without Google review link)
   const mobileNavItems = ['Ana Sayfa', 'Menü', 'Hakkımızda', 'İletişim'];
   
   // External links
   const externalLinks = {
-    'Google\'da değerlendirin': 'https://g.page/r/yourGoogleReviewLink'
+    // 'Google\'da değerlendirin': 'https://g.page/r/yourGoogleReviewLink',
+    'Menü': 'https://qr.sandavinci.net'
   };
 
   return (
